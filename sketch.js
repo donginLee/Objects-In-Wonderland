@@ -394,7 +394,7 @@ function objects(n) {
       rotateZ(map(t, 0, v4 / (2 * a), 0, -PI / 2));
     } else if ((t >= v4 / (2 * a)) && (t <= (30 * a * PI / v4) * PI + (v4 / (2 * a)))) {
       rotateX(map(t, v4 / (2 * a), (30 * a * PI / v4) * PI + (v4 / (2 * a)), -PI * 3 / 4, -2 * PI));
-      rotateY(map(t, v4 / (2 * a), (30 * a * PI / v4) * PI + (v4 / (2 * a)), PI * 2 / 3,- PI * 2));
+      rotateY(map(t, v4 / (2 * a), (30 * a * PI / v4) * PI + (v4 / (2 * a)), -PI * 2 / 3,- PI * 2));
       rotateZ(map(t, v4 / (2 * a), (30 * a * PI / v4) * PI + (v4 / (2 * a)), -PI / 2, -2 * PI));
     }
 
