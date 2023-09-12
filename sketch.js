@@ -144,7 +144,7 @@ function draw() {
     console.log(vel);
   print(vel);
   
-  if ((vel >200) && (z == 0)&&(mode==0)) {
+  if ((vel >20) && (z == 0)&&(mode==0)) {
     //print(v,v1,v2,v3,v4);
     console.log(vel);
     v=vel;
