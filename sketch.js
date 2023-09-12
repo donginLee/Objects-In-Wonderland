@@ -145,7 +145,8 @@ function draw() {
 
   
   if ((vel >1000) && (z == 0)&&(mode==0)) {
-    print(v,v1,v2,v3,v4);
+    //print(v,v1,v2,v3,v4);
+    console.log(vel);
     v=vel;
     v1=vel;
     v2=vel;
