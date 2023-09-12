@@ -140,7 +140,7 @@ function draw() {
   directionalLight(255, 255, 255, 1, 0, -1);
   // lights();
   let level = mic.getLevel();
-  vel = level * 100;
+  vel = level * 10;
 
 
   
