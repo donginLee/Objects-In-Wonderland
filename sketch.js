@@ -142,7 +142,7 @@ function draw() {
   let level = mic.getLevel();
   vel = level * 10;
     console.log(vel);
-  print(vel);
+  print("1",vel);
   
   if ((vel >2) && (z == 0)&&(mode==0)) {
     //print(v,v1,v2,v3,v4);
