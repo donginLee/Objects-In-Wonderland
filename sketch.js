@@ -140,11 +140,11 @@ function draw() {
   directionalLight(255, 255, 255, 1, 0, -1);
   // lights();
   let level = mic.getLevel();
-  vel = level * 100;
+  vel = level * 1000;
     console.log(vel);
   print(vel);
   
-  if ((vel >1000) && (z == 0)&&(mode==0)) {
+  if ((vel >200) && (z == 0)&&(mode==0)) {
     //print(v,v1,v2,v3,v4);
     console.log(vel);
     v=vel;
