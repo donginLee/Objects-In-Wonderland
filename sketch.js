@@ -141,8 +141,8 @@ function draw() {
   // lights();
   let level = mic.getLevel();
   vel = level * 100;
-  console.log(vel);
-
+    console.log(vel);
+  print(vel);
   
   if ((vel >1000) && (z == 0)&&(mode==0)) {
     //print(v,v1,v2,v3,v4);
