@@ -17,9 +17,14 @@
 3. **소리가 클수록** 물건들이 더 멀리 날아갔다가 다시 원래 자리로 돌아옴.  
 
 ## 📸 시각 자료  
-| 테이블 위의 물건들 | 큰 소리로 날아가는 모습 | 원래 자리로 돌아오는 모습 |  
-|-------------|------------------------|--------------------|  
-| ![image](https://github.com/user-attachments/assets/0381af08-5d87-4bc3-9a2c-ffc69c991a44) | ![image](https://github.com/user-attachments/assets/93091d10-e78c-4820-8c4d-cbbca21ddac9) | ![image](https://github.com/user-attachments/assets/13d4d6f9-a10d-4933-a553-322bce72688e) |  
+| 테이블 위의 물건들 | 큰 소리로 날아가는 모습 | 원래 자리로 돌아오는 모습 |
+|-------------|------------------------|--------------------|
+| ![image](https://github.com/user-attachments/assets/0381af08-5d87-4bc3-9a2c-ffc69c991a44) | ![image](https://github.com/user-attachments/assets/93091d10-e78c-4820-8c4d-cbbca21ddac9) | ![image](https://github.com/user-attachments/assets/13d4d6f9-a10d-4933-a553-322bce72688e) |
+
+## 🚀 비행함수
+  ![image](https://github.com/user-attachments/assets/55c6e02f-a382-48e3-80e3-8a5bfca3e057)
+
+
 
 ## 🔧 기술 스택  
 - HTML, CSS, WEBGL
